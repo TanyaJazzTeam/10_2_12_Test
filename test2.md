@@ -14,7 +14,7 @@ Specifying a doctype prevents the browser from switching to
 [quirks mode](https://developer.mozilla.org/docs/Web/HTML/Quirks_Mode_and_Standards_Mode),
 which can cause your page to [render in unexpected ways](https://quirks.spec.whatwg.org/#css).
 
-## How the Lighthouse doctype audit fails
+## How the Lighthouse doctype audit fails ffhhfhfh
 
 [Lighthouse](https://developers.google.com/web/tools/lighthouse/) flags pages without the `<!DOCTYPE html>` declaration:
 
